@@ -1,0 +1,18 @@
+question 1:
+    import os
+    print(os.environ)
+
+question 2:
+    QUERY_STRING
+
+Question 3: HTTP_USER_AGENT
+
+question 4: comes in from cgi.FieldStorage()
+
+question 5: Set-Cookie: <cookie name>=<cookie val>
+
+question 6: HTTP_COOKIE: "<cookie name>=<cookie val>; <cookie name>=<cookie val>"
+
+question 7: keeps small pieces of information stored on the users browser. Useful for things like storing JWT's or session tokens
+
+question 8: 
